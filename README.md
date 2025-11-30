@@ -88,22 +88,6 @@ Moeda adicionada!
 
 ---
 
-## 🤝 Como contribuir
-
-1. Faça um fork do repositório.
-2. Crie uma branch: `git checkout -b feature/minha-feature`.
-3. Commit suas mudanças: `git commit -m "feat: adiciona minha feature"`.
-4. Envie a branch: `git push origin feature/minha-feature`.
-5. Abra um Pull Request.
-
-Sugeridas melhorias:
-- Atualizar cotações via arquivo de configuração ou API.
-- Persistência em arquivo/BD.
-- Validação de entradas do usuário.
-- Testes unitários (JUnit).
-
----
-
 ## 📜 Licença
 
 Este projeto está sob a licença **MIT**. Consulte o arquivo `LICENSE` ou
@@ -114,5 +98,3 @@ Este projeto está sob a licença **MIT**. Consulte o arquivo `LICENSE` ou
 ## 👤 Autor
 
 IDENILTON FERREIRA SILVA
-
-Se este README foi útil, deixe uma ⭐ no repositório!
